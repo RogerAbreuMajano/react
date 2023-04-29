@@ -4,7 +4,7 @@ const ItemCount = () => {
   return (
     <div>
         <button> - </button>
-        <p>contador</p>
+        <p>Contador</p>
         <button> +  </button>
 
     </div>
