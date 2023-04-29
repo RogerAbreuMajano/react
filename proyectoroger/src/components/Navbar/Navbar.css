@@ -1,0 +1,12 @@
+h1 {
+    color: coral;
+ background-color: rgb(105, 236, 57);
+ text-align: center;
+ border-bottom: 4px solid rgb(131, 189, 132);
+}
+
+li {
+    display:  inline-block;
+    margin-left: 2rem;
+    cursor: pointer;
+}
